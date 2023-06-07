@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547989226180",
+    "project_id": "chatvistaa",
+    "storage_bucket": "chatvistaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547989226180:android:e61a549ad8b2be095d7f91",
+        "android_client_info": {
+          "package_name": "com.example.chatvista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547989226180-o6rqvdkpl39h4020s3mfchda19iinhuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCODyIJYMV8pBqHXiI15fFwVJ7HlB9z9sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547989226180-o6rqvdkpl39h4020s3mfchda19iinhuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
